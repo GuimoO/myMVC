@@ -1,0 +1,9 @@
+input {
+    border-bottom-color: rgb(255, 0, 0)!important;
+}
+nav {
+    background-color: blue;
+}
+#show {
+    display: none;
+}
